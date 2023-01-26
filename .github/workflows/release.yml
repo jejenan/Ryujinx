@@ -23,7 +23,7 @@ jobs:
       RYUJINX_BASE_VERSION: "1.1"
       RYUJINX_TARGET_RELEASE_CHANNEL_NAME: "master"
       RYUJINX_TARGET_RELEASE_CHANNEL_OWNER: "jejenan"
-      RYUJINX_TARGET_RELEASE_CHANNEL_REPO: "release-channel-master"
+      RYUJINX_TARGET_RELEASE_CHANNEL_REPO: "Ryujinx-release-channel-master"
 
     steps:
       - uses: actions/checkout@v3
